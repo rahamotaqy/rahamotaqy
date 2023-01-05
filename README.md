@@ -15,12 +15,12 @@
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href=""><img alt="PL/SQL" title="PL/SQL" src="" height="42"></a></code>
   <code><a href=""><img alt="SQL" title="SQL" src="" height="42"></a></code>
-  <code><a href=""><img alt="Oracle APEX" title="Oracle APEX" src="" height="42"></a></code>
-  <code><a href=""><img alt="Rest Data Service" title="Rest Data Service" src="" height="42"></a></code>
-  <code><a href=""><img alt="Business Process Model and Notation" title="Business Process Model and Notation" src="" height="42"></a></code>
-  <code><a href=""><img alt="Unified Modeling Language" title="Unified Modeling Language" src="" height="42"></a></code>
-  <code><a href=""><img alt="MATLAB" title="MATLAB" src="" height="42"></a></code>
-  <code><a href=""><img alt="Latex" title="Latex" src="" height="42"></a></code>
+  <code><a href="https://apex.oracle.com/en/"><img alt="Oracle APEX" title="Oracle APEX" src="" height="42"></a></code>
+  <code><a href="https://restfulapi.net/"><img alt="Restful API" title="Restful API" src="" height="42"></a></code>
+  <code><a href="https://www.bpmn.org/"><img alt="Business Process Model and Notation" title="Business Process Model and Notation" src="" height="42"></a></code>
+  <code><a href="http://www.uml.org/"><img alt="Unified Modeling Language" title="Unified Modeling Language" src="" height="42"></a></code>
+  <code><a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" title="MATLAB" src="" height="42"></a></code>
+  <code><a href="https://www.latex-project.org/"><img alt="Latex" title="Latex" src="" height="42"></a></code>
 
 </p>
 <br>
@@ -33,19 +33,19 @@
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href=""><img alt="C#" title="C#" src="" height="42"></a></code>
   <code><a href=""><img alt="C++" title="C++" src="" height="42"></a></code>
-  <code><a href=""><img alt="ASP.Net" title="ASP.Net" src="" height="42"></a></code>
-  <code><a href=""><img alt="MFC" title="MFC" src="" height="42"></a></code>
-  <code><a href=""><img alt="R Lang" title="R Lang" src="" height="42"></a></code>
-  <code><a href=""><img alt="Make File" title="Make File" src="" height="42"></a></code>
+  <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img alt="ASP.Net" title="ASP.Net" src="" height="42"></a></code>
+  <code><a href="https://learn.microsoft.com/en-us/cpp/mfc/mfc-desktop-applications"><img alt="MFC" title="MFC" src="" height="42"></a></code>
+  <code><a href="https://www.r-project.org/"><img alt="R Lang" title="R Lang" src="" height="42"></a></code>
+  <code><a href="https://www.gnu.org/s/make/manual/make.html"><img alt="GNU Make" title="GNU Make" src="" height="42"></a></code>
   <code><a href=""><img alt="Ajax" title="Ajax" src="" height="42"></a></code>
-  <code><a href=""><img alt="JQuery" title="JQuery" src="" height="42"></a></code>
+  <code><a href="https://jquery.com/"><img alt="JQuery" title="JQuery" src="" height="42"></a></code>
   <code><a href=""><img alt="XML" title="XML" src="" height="42"></a></code>
-  <code><a href=""><img alt="WireShark" title="WireShark" src="" height="42"></a></code>
-  <code><a href=""><img alt="NMap" title="NMap" src="" height="42"></a></code>
-  <code><a href=""><img alt="Oracle BI" title="Oracle BI" src="" height="42"></a></code>
-  <code><a href=""><img alt="Oracle MAF" title="Oracle MAF" src="" height="42"></a></code>
-  <code><a href=""><img alt="WebLogic" title="WebLogic" src="" height="42"></a></code>
-  <code><a href=""><img alt="TomCat" title="TomCat" src="" height="42"></a></code>
+  <code><a href="https://www.wireshark.org/"><img alt="WireShark" title="WireShark" src="" height="42"></a></code>
+  <code><a href="https://nmap.org/"><img alt="NMap" title="NMap" src="" height="42"></a></code>
+  <code><a href="https://www.oracle.com/business-analytics/business-intelligence/technologies/bi.html"><img alt="Oracle BI" title="Oracle BI" src="" height="42"></a></code>
+  <code><a href="https://www.oracle.com/application-development/technologies/maf/oraclemaf.html#:~:text=Oracle%20Mobile%20Application%20Framework%20(Oracle,and%20Microsoft%20Windows%2010%20platforms."><img alt="Oracle MAF" title="Oracle MAF" src="" height="42"></a></code>
+  <code><a href="https://www.oracle.com/java/weblogic/"><img alt="WebLogic" title="WebLogic" src="" height="42"></a></code>
+  <code><a href="https://tomcat.apache.org/"><img alt="TomCat" title="TomCat" src="" height="42"></a></code>
 </p>
 <br>
 
@@ -58,10 +58,10 @@
 
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
-  <code><a href="https://ubuntu.com/"><img alt="Ubuntu Linux" title="Ubuntu" src="./assets/Ubuntu.png" height="42"></a></code>
+  <code><a href="https://ubuntu.com/"><img alt="Ubuntu Linux" title="Ubuntu" src="./assets/ubuntu.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-  <code><a href="https://www.oracle.com/database/sqldeveloper/"><img alt="SQL Developer" title="SQL Developer" src="./assets/sqlserver.jpeg" height="42"></a></code>
+  <code><a href="https://www.oracle.com/database/sqldeveloper/"><img alt="SQL Developer" title="SQL Developer" src="./assets/sql-dev.svg" height="42"></a></code>
   <code><a href="https://www.oracle.com/database/"><img alt="Oracle Database" title="Oracle Database" src="./assets/oracle.png" height="42"></a></code>
   <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="SQL Server" title="SQL Server" src="./assets/sqlserver.jpeg" height="42"></a></code>
   <code><a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="./assets/postman.png" height="42"></a></code>
