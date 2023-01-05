@@ -52,7 +52,7 @@
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
-
+   <code><a href="https://github.com/tmux/tmux/wiki"><img alt="tmux" title="tmux" src="./assets/tmux.png" height="42"></a></code>
 </p>
 <br>
 
