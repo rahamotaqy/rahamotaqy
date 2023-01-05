@@ -11,7 +11,7 @@
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
-  <code><a href="https://go.dev/"><img alt="Go Lang" title="Go Lang" src="" height="42"></a></code>
+  <code><a href="https://go.dev/"><img alt="Go Lang" title="Go Lang" src="./assets/go.png" height="42"></a></code>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href="#"><img alt="PL/SQL" title="PL/SQL" src="./assets/plsql.jpeg" height="42"></a></code>
   <code><a href="#"><img alt="SQL" title="SQL" src="./assets/sql.png" height="42"></a></code>
