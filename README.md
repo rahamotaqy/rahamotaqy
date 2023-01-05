@@ -61,11 +61,11 @@
   <code><a href="https://ubuntu.com/"><img alt="Ubuntu Linux" title="Ubuntu" src="./assets/Ubuntu.png" height="42"></a></code>
   <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-  <code><a href="https://www.oracle.com/database/sqldeveloper/"><img alt="SQL Developer" title="SQL Developer" src="" height="42"></a></code>
-  <code><a href=""><img alt="Oracle Database" title="Oracle Database" src="https://www.oracle.com/database/" height="42"></a></code>
-  <code><a href=""><img alt="SQL Server" title="SQL Server" src="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" height="42"></a></code>
-  <code><a href=""><img alt="Postman" title="Postman" src="https://www.postman.com/" height="42"></a></code>
-  <code><a href=""><img alt="Visual Paradigm" title="Visual Paradigm" src="https://www.visual-paradigm.com/" height="42"></a></code>
+  <code><a href="https://www.oracle.com/database/sqldeveloper/"><img alt="SQL Developer" title="SQL Developer" src="./assets/sqlserver.jpeg" height="42"></a></code>
+  <code><a href="https://www.oracle.com/database/"><img alt="Oracle Database" title="Oracle Database" src="./assets/oracle.png" height="42"></a></code>
+  <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="SQL Server" title="SQL Server" src="./assets/sqlserver.jpeg" height="42"></a></code>
+  <code><a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="./assets/postman.png" height="42"></a></code>
+  <code><a href="https://www.visual-paradigm.com/"><img alt="Visual Paradigm" title="Visual Paradigm" src="./assets/visualparadaigm.png" height="42"></a></code>
 </p>
 <br>
 
