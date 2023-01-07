@@ -25,7 +25,7 @@
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I know good-enough to get my work Done: </h1>
+<h1 align="center"> Languages/Frameworks I have worked with: </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
@@ -46,6 +46,7 @@
   <code><a href="https://www.oracle.com/application-development/technologies/maf/oraclemaf.html#:~:text=Oracle%20Mobile%20Application%20Framework%20(Oracle,and%20Microsoft%20Windows%2010%20platforms."><img alt="Oracle MAF" title="Oracle MAF" src="./assets/oracleMAF.jpeg" height="42"></a></code>
   <code><a href="https://www.oracle.com/java/weblogic/"><img alt="WebLogic" title="WebLogic" src="./assets/weblogic.png" height="42"></a></code>
   <code><a href="https://tomcat.apache.org/"><img alt="TomCat" title="TomCat" src="./assets/tomcat.png" height="42"></a></code>
+  <code><a href="https://www.sqlite.org/index.html"><img alt="SQLite" title="SQLite" src="./assets/SQLite.jpeg" height="42"></a></code>
 </p>
 <br>
 
