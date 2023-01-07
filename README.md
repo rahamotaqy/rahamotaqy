@@ -3,9 +3,9 @@
 <!-- GitHub stats section -->
 
 ## 📊 Github stats
-![Raha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahamotaqy&count_private=true&include_all_commits=true&hide=issues,contribs,prs&show_icons=true&theme=onedark)
+![Raha's GitHub stats](https://github-readme-stats-w9zo.vercel.app/api?username=rahamotaq&count_private=true&include_all_commits=true&hide=issues,contribs,prs&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahamotaqy&count-private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-w9zo.vercel.app/api/top-langs/?username=rahamotaqy&count-private=true&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- languajes and skills section -->
 
