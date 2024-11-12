@@ -1,4 +1,4 @@
-<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/96183163/189266579-508224d8-692c-4e35-aa8d-6bdd59c10e0a.gif" />
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/96183163/189265308-c4ce98c4-e34c-457f-aaed-318a283c672a.gif" />
 
 <!-- GitHub stats section -->
 
