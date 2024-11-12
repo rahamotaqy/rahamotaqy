@@ -4,7 +4,7 @@
 
 ## 📊 Github stats
 ![Raha's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rahamotaqy&show_icons=true&count_private=true&hide=stars,prs,issues,contribs)
-![Top Langs](https://github-readme-stats-w9zo-rahamotaqy.vercel.app/api/top-langs/?username=rahamotaqy&langs_count=8&layout=compact)-->
+<!--![Top Langs](https://github-readme-stats-w9zo-rahamotaqy.vercel.app/api/top-langs/?username=rahamotaqy&langs_count=8&layout=compact)-->
 
 <!-- languajes and skills section -->
 
