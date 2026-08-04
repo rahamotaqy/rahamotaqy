@@ -41,9 +41,8 @@ I design and analyze correctness-critical distributed systems, from blockchain c
 
 | Area | Technologies and methods |
 | --- | --- |
-| Languages | Go, Python, Solidity, C#, PL/SQL, SQL |
+| Languages | Go, Python, Solidity, C#, PL/SQL, SQL, C++, MATLAB, R, LaTeX, Wolfram |
 | Distributed systems | Consensus, synchronization, rollback, fault tolerance, autorecovery, ledger consistency |
-| Blockchain | Full nodes, P2P networking, mempools, block validation, RPC APIs, committee protocols |
 | Cloud & infrastructure | AWS, Docker, Kubernetes, GitHub Actions, CI/CD, Linux |
 | Data & backends | Oracle Database, Microsoft SQL Server, NoSQL, REST/SOAP APIs |
 | Security | Threat modeling, adversarial analysis, formal security proofs, authorization design |
