@@ -19,20 +19,23 @@ I design and analyze correctness-critical distributed systems, from blockchain c
 
 ## Selected work
 
-### Ethereum GHOST consensus security · University of Connecticut · 2023-present
+### Ethereum GHOST consensus security .
+[Paper](https://eprint.iacr.org/2024/1830) 
 
 - Formalized GHOST in a partially synchronous Byzantine fault-tolerant model.
 - Proved consistency, liveness, and bounded confirmation guarantees for adversarial and deterministic tie-breaking.
 - Constructed consensus-stalling attacks that characterize tight protocol failure boundaries.
 
-### chainBoost: dependent sidechain architecture · EuroS&P 2024
+### chainBoost: dependent sidechain architecture · 
+[Published Paper](https://eprint.iacr.org/2024/1020) EuroS&P 2024
 
 - Built and deployed a Go-based distributed full-node prototype across AWS-hosted servers.
 - Implemented P2P networking, a NoSQL-backed mempool, PBFT-style consensus, validation, persistence, APIs, and node synchronization.
 - Orchestrated multi-node deployments with Docker and Kubernetes.
 - Demonstrated **4-11x throughput gains** and **up to 90% blockchain-size reduction** on Filecoin-inspired workloads.
 
-### Incentive-compatible smart contracts · GameSec 2021
+### Incentive-compatible smart contracts · 
+[Published Paper](https://arxiv.org/abs/2010.12280) GameSec 2021
 
 - Developed a Solidity mechanism for trustless collaboration among pseudonymous participants.
 - Proved incentive compatibility and strong-equilibrium behavior under incomplete information.
