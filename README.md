@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Raha Motaqy</h1>
 <h3 align="center">Blockchain Protocol & Distributed Systems Engineer</h3>
 
+<img align="right" height="270px" alt="Animated developer illustration" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif" />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/raha-motaqy">LinkedIn</a> ·
   <a href="mailto:raha@uconn.edu">Email</a>
@@ -53,9 +55,3 @@ I design and analyze correctness-critical distributed systems, from blockchain c
 - **B.Sc., Computer Science** — Shahed University
 - **Backend Systems Engineer** — Fara Rayane Design and Processing Company, 2016-2020
 - **Teaching Assistant, Modern Cryptography** — University of Connecticut
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahamotaqy&show_icons=true&hide_title=true" alt="Raha Motaqy's GitHub statistics" />
-</p>
